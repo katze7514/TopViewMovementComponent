@@ -2,7 +2,7 @@
 
 UnrealEngine4で、見下ろし視点(XY平面上)の移動を行うComponentの実装です。 
 名前の通りPawn用です。Actorでは使えません。次のblog記事と連動したものになります。
-[見下ろし2Dゲームの移動処理(TopViewMovement)を作る]()
+[見下ろし2Dゲームの移動処理(TopViewMovement)を作る](http://katze.hatenablog.jp/entry/2017/03/28/205434)
   
 # インストール  
 
@@ -13,7 +13,7 @@ UnrealEngine4で、見下ろし視点(XY平面上)の移動を行うComponentの
 1. リビルドします  
 
 # 使い方  
-PawnにTopViewPawnMovementComponentを追加します。  
+PawnにTopViewPawnMovementComponentを追加します。  
 すべてBPから使用することができます。  
 
 ## 方向  
